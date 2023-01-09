@@ -1,0 +1,11 @@
+div {
+    background-color: wheat;
+    color: red;
+    font-size: 102px;
+    text-align: center;
+    font-weight: bold;
+    
+  }
+*{
+    background-color: blue;
+}
